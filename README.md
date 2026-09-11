@@ -2,7 +2,7 @@
 
 Dashboard interactivo en Power BI para el análisis de plantilla de personal: distribución de empleados activos e inactivos.
 
-![Dashboard principal](screenshots/dashboard-principal.png)
+![Dashboard principal](plantilla de empleados.png)
 
 ## Contexto del proyecto
 
